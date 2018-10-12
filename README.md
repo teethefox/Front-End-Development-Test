@@ -1,7 +1,8 @@
 # Front-End-Development-Test
 This is a Front End Development Test for applicants at TGR.
 
-The following has been provided within this repository:
+## Project brief
+### The following has been provided within this repository:
 
 1. “assets” folder - This folder includes the majority of image, video and font files that will be needed to complete this test.
 2. “psd” folder - This folder includes a Photoshop document of the design. The file is intentionally unorganized and mesnt to be difficult to find layers.
