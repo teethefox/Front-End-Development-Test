@@ -10,6 +10,11 @@ The following has been provided within this repository:
 3. “jpg” folder - This folder includes a JPG of the design.
 4. “mp4” folder - This folder includes a 20 second animation. The animation is a representation of the intended functionality for the design.
 
+## Objectives/Requirements
+1. Use HTML5, or HAML if preferred.
+2. Use a CSS preprocessor for styles, SCSS or Sass.
+3. Refer to the image below to see how the intended final product should appear in a browser. The image below also specifies breakpoints and device limitations.
+
 ## Browser Support
 Ensure that the elements work and display correctly in the following browsers:
 
