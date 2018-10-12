@@ -39,5 +39,6 @@ This is a front end development test, specifically geared to test abilities in s
 - Have files been optimized?
 
 ## Deliverables and Deadline
-Please deliver final product by forking this repositiory on your personal git hub account. When completed, please email the repo URL to austin.branham@tetongravity.com and drew.holt@tetongravity.com
-Take your time but try to deliver it within 3 days time. If we don't see any activity in your test repository after 2 weeks (at least initial commits), we will automatically withdraw your application.
+Please deliver final product by forking this repositiory on your personal git hub account. When completed, email the repo URL to austin.branham@tetongravity.com and drew.holt@tetongravity.com
+
+Take your time but try to deliver it within 3 days time.
