@@ -16,9 +16,10 @@ This is a front end development test, specifically geared to test abilities in s
 2. Use a CSS preprocessor for styles, SCSS or Sass.
 3. Use whatever Javascript libraries you would like. The less, the better.
 4. Create functionality that very accurately mirrors the animation within the "mp4" folder.
-5. The only elements on the page that need to be clickable are the play buttons. If a play button is clicked, the correct video (which can be found in the "assets" folder) should play. Other elements on the page, like navigation buttons at top of viewport, do not need to be clickable.
-6. Although this test is optimzied for mobile and some elements do not need to be clickable, do your best to create an interactive page with consistent UX detail through hover effects and animation timing.
-7. Refer to the image below to see how the intended final product should appear in a browser. The image below also specifies breakpoints and device limitations.
+5. The only elements on the page that need to be clickable are the play buttons. If a play button is clicked, the correct video (which can be found in the `assets` folder) should play. Other elements on the page, like navigation buttons at top of viewport, do not need to be clickable.
+6. One video will need to be an embedded iframe. The other three videos can be HTML5 videos using the video files provided in the `assets` folder
+7. Although this test is optimzied for mobile and some elements do not need to be clickable, do your best to create an interactive page with consistent UX detail through hover effects and animation timing.
+8. Refer to the image below to see how the intended final product should appear in a browser. The image below also specifies breakpoints and device limitations.
 ![desktop-preview](https://user-images.githubusercontent.com/25068260/46884888-8a03b780-ce13-11e8-8ab4-97ed279216f1.jpg)
 
 ## Browser Support
