@@ -1,4 +1,6 @@
 # Front-End-Development-Test
+![teton-gravity-research-logo](https://user-images.githubusercontent.com/25068260/46886003-cc7ac380-ce16-11e8-9078-923672736395.png)
+
 This is a front end development test, specifically geared to test abilities in semantics, styles and scripts as they relate to User Interface & User Experience design.
 
 ## Assets
