@@ -6,10 +6,10 @@ This is a front end development test, specifically geared to test abilities in s
 ## Assets
 #### The following has been provided within this repository:
 
-- **“assets” folder** - This folder includes the **majority** of image, video and font files that will be needed.
-- **“psd” folder** - This folder includes a Photoshop document of the design. The file is intentionally unorganized and meant to be difficult to find layers.
-- **“jpg” folder** - This folder includes a JPG of the design.
-- **“mp4” folder** - This folder includes a 20 second animation. The animation is a representation of the intended functionality for the design.
+- `assets` folder - This folder includes the **majority** of image, video and font files that will be needed.
+- `psd` folder - This folder includes a Photoshop document of the design. The file is intentionally unorganized and meant to be difficult to find layers.
+- `jpg` folder - This folder includes a JPG of the design.
+- `mp4` folder - This folder includes a 20 second animation. The animation is a representation of the intended functionality for the design.
 
 ## Objectives/Requirements
 1. Use HTML5.
@@ -29,7 +29,7 @@ This is a front end development test, specifically geared to test abilities in s
 - Google Chrome (latest version)
 
 ## Things to Remember
-#### Have you made sure that your work is orgnazied and completed efficiently?
+#### Have you made sure that your work is organized and completed efficiently?
 
 - Are all requirements set above met?
 - Does the live page look just like the Photoshop design?
@@ -38,5 +38,5 @@ This is a front end development test, specifically geared to test abilities in s
 - Have files been optimized?
 
 ## Deliverables and Deadline
-Please deliver final product to austin.branham@tetongravity.com 
-Take your time but try to deliver it within 2 weeks time. If we don't see any activity in your test repository after 2 weeks (at least initial commits), we will automatically withdraw your application.
+Please deliver final product by forking this repositiory on your personal git hub account. When completed, please email the repo URL to austin.branham@tetongravity.com and drew.holt@tetongravity.com
+Take your time but try to deliver it within 3 days time. If we don't see any activity in your test repository after 2 weeks (at least initial commits), we will automatically withdraw your application.
