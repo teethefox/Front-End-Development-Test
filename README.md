@@ -6,10 +6,10 @@ This is a front end development test, specifically geared to test abilities in s
 ## Assets
 #### The following has been provided within this repository:
 
-`assets` - This folder includes the **majority** of image, video and font files that will be needed.
-`psd` - This folder includes a Photoshop document of the design. The file is intentionally unorganized and meant to be difficult to find layers.
-`jpg` - This folder includes a JPG of the design.
-`mp4` - This folder includes a 20 second animation. The animation is a representation of the intended functionality for the design.
+- `assets` - This folder includes the **majority** of image, video and font files that will be needed.
+- `psd` - This folder includes a Photoshop document of the design. The file is intentionally unorganized and meant to be difficult to find layers.
+- `jpg` - This folder includes a JPG of the design.
+- `mp4` - This folder includes a 20 second animation. The animation is a representation of the intended functionality for the design.
 
 ## Objectives/Requirements
 1. Use HTML5.
