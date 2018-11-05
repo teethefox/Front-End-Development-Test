@@ -20,7 +20,7 @@ This is a front end development test, specifically geared to test abilities in s
 6. One video will need to be an embedded iframe. The other three videos can be HTML5 videos using the video files provided in the `assets` folder
 7. Although this test is optimzied for mobile and some elements do not need to be clickable, do your best to create an interactive page with consistent UX detail through hover effects and animation timing.
 8. Refer to the image below to see how the intended final product should appear in a browser. The image below also specifies breakpoints and device limitations.
-![desktop-preview](https://user-images.githubusercontent.com/25068260/46884888-8a03b780-ce13-11e8-8ab4-97ed279216f1.jpg)
+![desktop-preview](https://user-images.githubusercontent.com/25068260/48015184-abd81d80-e0e5-11e8-832e-1299b235ac58.jpg)
 
 ## Browser Support
 #### Ensure that the elements work and display correctly in the following browsers:
