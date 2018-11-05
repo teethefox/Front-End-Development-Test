@@ -36,7 +36,7 @@ This is a front end development test, specifically geared to test abilities in s
 - Does the live page look just like the Photoshop design?
 - Can the project be built using `npm run build`?
 - Is the page working without any JS errors?
-- Have files been optimized?
+- Have files been optimized? Are best suited image file types being utilized for graphics? 
 
 ## Deliverables and Deadline
 Please deliver final product by forking this repositiory on your personal git hub account. When completed, email the repo URL to austin.branham@tetongravity.com and drew.holt@tetongravity.com
